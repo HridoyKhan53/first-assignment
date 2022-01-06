@@ -21,3 +21,59 @@ body{
     color: white;
     padding: 10px 40px;
 }
+.orange-color{
+    color: chocolate;
+}
+.here-some{
+    margin-left: 400px;
+}
+.another-actor{
+    display: flex;
+    margin: 100px;
+}
+.background-color1{
+    background-color: cornflowerblue;
+    margin-right: 20px;
+}
+.background-color2{
+    background-color: darkcyan;
+    margin-right: 20px;
+}
+.background-color3{
+    background-color: darksalmon;
+    margin-right: 20px;
+}
+.paragraph-1{
+    margin-left: 200px;
+    width: 50%;
+}
+#half-2{
+    width: 50%;
+}
+#hrx-1{
+    display: flex;
+    width: auto;
+}
+.hrirhik-rosan{
+    display: flex;
+    width: auto;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.flim-in{
+    display: flex;
+    margin-top: 150px;
+    width: 90%;
+}
+.cinama-ind{
+    margin-right: 100px;
+}
+.foot-er{
+    padding: 400px;
+    color: white;
+    background-color: black;
+    background-position: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
