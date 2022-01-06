@@ -1,0 +1,23 @@
+body{
+    font-family: 'poppins', sans-serif;
+}
+.tiger-sroof{
+    display: flex;
+    margin-left: 50px;
+}
+.half-a{
+    width: 50%;
+}
+.color-1{
+    color: orange;
+}
+.color-2{
+    color: blue;
+}
+.link-button1{
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    font-weight: 700px;
+    color: white;
+    padding: 10px 40px;
+}
